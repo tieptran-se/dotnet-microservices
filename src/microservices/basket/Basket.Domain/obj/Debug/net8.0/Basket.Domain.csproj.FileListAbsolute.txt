@@ -1,0 +1,12 @@
+/Users/tieptran/Work/dotnet-microservices/src/microservices/basket/Basket.Domain/bin/Debug/net8.0/Basket.Domain.deps.json
+/Users/tieptran/Work/dotnet-microservices/src/microservices/basket/Basket.Domain/bin/Debug/net8.0/Basket.Domain.dll
+/Users/tieptran/Work/dotnet-microservices/src/microservices/basket/Basket.Domain/bin/Debug/net8.0/Basket.Domain.pdb
+/Users/tieptran/Work/dotnet-microservices/src/microservices/basket/Basket.Domain/obj/Debug/net8.0/Basket.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tieptran/Work/dotnet-microservices/src/microservices/basket/Basket.Domain/obj/Debug/net8.0/Basket.Domain.AssemblyInfoInputs.cache
+/Users/tieptran/Work/dotnet-microservices/src/microservices/basket/Basket.Domain/obj/Debug/net8.0/Basket.Domain.AssemblyInfo.cs
+/Users/tieptran/Work/dotnet-microservices/src/microservices/basket/Basket.Domain/obj/Debug/net8.0/Basket.Domain.csproj.CoreCompileInputs.cache
+/Users/tieptran/Work/dotnet-microservices/src/microservices/basket/Basket.Domain/obj/Debug/net8.0/Basket.Domain.sourcelink.json
+/Users/tieptran/Work/dotnet-microservices/src/microservices/basket/Basket.Domain/obj/Debug/net8.0/Basket.Domain.dll
+/Users/tieptran/Work/dotnet-microservices/src/microservices/basket/Basket.Domain/obj/Debug/net8.0/refint/Basket.Domain.dll
+/Users/tieptran/Work/dotnet-microservices/src/microservices/basket/Basket.Domain/obj/Debug/net8.0/Basket.Domain.pdb
+/Users/tieptran/Work/dotnet-microservices/src/microservices/basket/Basket.Domain/obj/Debug/net8.0/ref/Basket.Domain.dll

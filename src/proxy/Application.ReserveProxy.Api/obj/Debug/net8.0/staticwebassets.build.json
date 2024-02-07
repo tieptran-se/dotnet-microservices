@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "K3JwOmAcuokdZmuB9IjGlGYy4pXQJSfhcxWojHdQiP0=",
+  "Source": "Application.ReserveProxy.Api",
+  "BasePath": "_content/Application.ReserveProxy.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
